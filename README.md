@@ -2,6 +2,11 @@
 The implementation for my dissertation "Predicting the Weight of a Human from a Photo".
 
 # How to run
+
+## Pre-requisites:
+- Have Node.js installed.
+- Have Visual Studio Code installed.
+
 1) Load up the "new" folder into VS Code.
 2) Open the built-in Terminal and run "nodemon app.js".
 3) In Google Chrome navigate to "localhost:3000".
