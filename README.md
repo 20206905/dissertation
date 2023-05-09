@@ -8,7 +8,8 @@ The implementation for my dissertation "Predicting the Weight of a Human from a 
 - Have Visual Studio Code installed.
 - Have Google Chrome installed.
 
-## new
+## For Windows.
+### new
 1) Extract the folder.
 2) Open the extracted folder in Visual Studio Code.
 3) Open the built-in Terminal and run "cd Implementation" and then "cd new".
@@ -17,7 +18,7 @@ The implementation for my dissertation "Predicting the Weight of a Human from a 
 
 The above is the data collection method, it goes through the images in the "archive" folder and estimates the body pose & segmentation and then the anthropometric features. After this is done for each photo, the anthropometric feature ratios along with the weight of the subject are added to a data array as an object, and at the end a JSON file is downloaded onto the computer using the neuralNetwork library.
 
-## neural_network
+### neural_network
 6) Next, enter "cd .." into the built-in terminal to go back into the parent directory.
 7) Then, enter "cd neural_network" to enter the "neural_network" directory.
 8) Then, enter "node app.js"
