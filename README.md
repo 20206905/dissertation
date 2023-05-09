@@ -22,5 +22,6 @@ The above is the data collection method, it goes through the images in the "arch
 7) Then, enter "cd neural_network" to enter the "neural_network" directory.
 8) Then, enter "node app.js"
 9) Then again, enter Google Chrome and navigate to "localhost:3000".
+10) Enter into the Console to see the estimations for the images in the testing dataset, the Mean Absolute Error and Mean Absolute Percentage Error as well.
 
-In the above the "anthropometricFeatures.json" file created in the "new" folder is loaded into the "sketch.js" file into an array called "data". A testing dataset is then taken from this at random, then the model is trained and tested. The results of the tests are in the Console alonog with the Mean Absolute Error and Mean Absolute Percentage Error.
+In the above the "anthropometricFeatures.json" file created in the "new" folder is loaded into the "sketch.js" file into an array called "data". A testing dataset is then taken from this at random, then the model is trained and tested. The results of the tests are in the Console along with the Mean Absolute Error and Mean Absolute Percentage Error.
