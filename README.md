@@ -1,4 +1,4 @@
-# dissertation
+# Dissertation
 The implementation for my dissertation "Predicting the Weight of a Human from a Photo".
 
 # How to run
